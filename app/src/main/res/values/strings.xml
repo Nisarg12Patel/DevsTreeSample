@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Nisarg Patel</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="api_key">AIzaSyBSNyp6GQnnKlrMr7hD2HGiyF365tFlK5U</string>
+</resources>
